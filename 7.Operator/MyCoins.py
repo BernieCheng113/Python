@@ -12,10 +12,6 @@ MyMoney = MyMoney - round(Food* 0.8)
 
 MyATM = MyMoney 
 
-#列出剩餘金額
+# Print remaining money
 print('Save MyCoins' + str(MyATM)) 
-
-
-
-
 
